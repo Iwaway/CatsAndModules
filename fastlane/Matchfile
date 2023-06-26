@@ -1,0 +1,8 @@
+git_url("https://github.com/Iwaway/certAndProfs")
+
+storage_mode("git")
+
+type("development")
+
+app_identifier(["*"])
+username("yehor.bilokin@ukma.edu.ua")

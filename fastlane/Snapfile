@@ -1,0 +1,5 @@
+devices(["iPhone 13", "iPhone 8"])
+languages(["en-US", "de-DE"])
+scheme("CatsAndModulesScreenshotTests")
+output_directory("./screenshots")
+override_status_bar(true)
